@@ -92,3 +92,7 @@ SourceHanSerifCN-SemiBold.otf
 阿里巴巴普惠体-REGULAR.OTF
 霞鹜漫黑.ttf
 ```
+#### thanks
+
+感谢提供免费字体的各位大神  
+字体信息汇总来源 https://www.maoken.com/all-fonts
